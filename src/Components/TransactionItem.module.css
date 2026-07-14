@@ -1,0 +1,10 @@
+.transactionCard{
+      border-radius:18px;
+    transition:.3s;
+    font-family:cursive ;
+}
+
+.transactionCard:hover{
+    transform:translateY(-5px);
+    box-shadow:0 10px 25px rgba(164, 148, 148, 0.15);
+}
